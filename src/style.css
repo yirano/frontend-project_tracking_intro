@@ -93,18 +93,15 @@ h1 {
   grid-row: 2/span 3;
   grid-column: 2/3;
   align-content: center;
-  justify-content: end;
-}
-
-.right-content img{
-
-  width: fit-content;
+  background: url('../imgs/illustration-devices.svg') no-repeat;
+  background-size: contain;
+  background-position-y: 30px;
+  background-position: center;
 }
 
 
 
 footer {
   background-color: #fff;
-  width: 1440px;
   margin: 0 auto;
 }
