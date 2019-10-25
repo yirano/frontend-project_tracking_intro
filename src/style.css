@@ -70,7 +70,6 @@ header {
 
 .collapse-menu {
   display: none;
-  
 }
 
 nav {
@@ -193,7 +192,6 @@ footer {
 
   .hide {
     display: none;
-    animation: slide 200ms;
   }
 
   .collapse-menu , .burger-menu-wrapper{
@@ -310,7 +308,6 @@ footer {
   }
 
   .button-wrapper {
-    text-align: center;
     width: 100%;
     letter-spacing: 0.1em;
     font-size: 0.8em;
